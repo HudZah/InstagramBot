@@ -64,7 +64,7 @@ class InstagramBot():
 
             Username = ttk.Entry(UsernameFrame, font=LARGE_FONT)
             #Username.insert(0, "Username")
-            Username.insert(0, "hudzah")
+            Username.insert(0, "Enter username")
             Username.place(relwidth=1, relheight=1)
             Username.focus()
 
@@ -75,7 +75,7 @@ class InstagramBot():
 
             Password = ttk.Entry(PasswordFrame, show="*",  font=LARGE_FONT)
             #Password.insert(0, "Password")
-            Password.insert(0, "HUdhayfart_123")
+            Password.insert(0, "Enter password")
             Password.place(relwidth=1, relheight=1)
 
             # Hashtags label
