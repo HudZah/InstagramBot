@@ -26,3 +26,9 @@ Once you download it, go to your Python installation directory and move the chro
 And that's it! Now it should run fine.
 
 In case it doesn't or if you want to mention a location from where the chromedriver is to be fetched, you can modify the driver assingment line.
+
+## How To Use
+Start by running the Python file, it should launch a GUI.
+Continue by entering your Instagram login details and adding as many hashtags as you like with each one being seperated by a "," Eg. food, nyc.
+Next, select how many pictures you want the bot to like per hashtag, don't put a really large number or your account could get blocked.
+And then click run! 
